@@ -1,4 +1,4 @@
-/*package rest;
+package rest;
 
 import entities.User;
 import entities.Role;
@@ -223,4 +223,4 @@ public class LoginEndpointTest {
 
 }
 
- */
+
